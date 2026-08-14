@@ -1,0 +1,38 @@
+name: asd-kd
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # PyTorch (stable + compatible with your GPUs)
+  - pytorch=2.1.*
+  - torchvision=0.16.*
+  - pytorch-cuda=12.1
+
+  # Core scientific stack
+  - numpy>=1.24
+  - scipy>=1.10
+  - pandas>=2.0
+  - scikit-learn>=1.2
+
+  # Visualization
+  - matplotlib>=3.7
+  - seaborn>=0.12
+
+  # Utils
+  - tqdm>=4.65
+  - pyyaml>=6.0
+  - pillow>=9.5
+
+  # Pip section
+  - pip
+  - pip:
+      - wandb>=0.15.0
+      - grad-cam>=1.5.0
+      - pytorch-grad-cam
+      - timm
+      - robustbench
