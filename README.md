@@ -74,3 +74,8 @@ Two novel losses:
 | WRN-40-2    | WRN-16-2      | CIFAR-100    |
 | WRN-40-2    | ShuffleNet-V2 | CIFAR-100    |
 | ResNet-50   | MobileNet-V2  | ImageNet-100 |
+
+
+## 📄 Supplementary Material
+[Download the Supplementary Material (PDF)](docs/BMVC_ASD_Supplementary.pdf)
+GitHub renders that as a clickable link; clicking opens its built-in PDF viewer (or downloads).
