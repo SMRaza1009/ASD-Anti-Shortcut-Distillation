@@ -1,4 +1,4 @@
-# Anti-Shortcut Distillation (ASD)
+# [BMVC-2026] Anti-Shortcut Distillation (ASD)
 
 > **Teaching Students What NOT to Learn via Temporal Contrastive Knowledge Transfer**
 
