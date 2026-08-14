@@ -2,6 +2,10 @@
 
 > **Teaching Students What NOT to Learn via Temporal Contrastive Knowledge Transfer**
 
+## 📄 Paper
+- [Manuscript (PDF)](docs/BMVC_ASD_Manuscript.pdf)
+- [Supplementary Material (PDF)](docs/BMVC_ASD_Supplementary.pdf)
+
 ## Quick Start
 
 ```bash
